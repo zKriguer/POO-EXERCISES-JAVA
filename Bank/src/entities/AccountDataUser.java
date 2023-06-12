@@ -2,7 +2,7 @@ package entities;
 
 public class AccountDataUser {
     private final int accountNumber;
-    private final String accountHolder;
+    private String accountHolder;
     private double accountBalance;
     static double WITHDRAW_FEE = 5;
 
@@ -23,6 +23,10 @@ public class AccountDataUser {
 
     public String getAccountHolder() {
         return accountHolder;
+    }
+
+    public void setAccountHolder(String accountHolder) {
+        this.accountHolder = accountHolder;
     }
 
     public double getAccountBalance() {

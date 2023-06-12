@@ -3,7 +3,6 @@ package application;
 import entities.AccountDataUser;
 
 import java.util.Locale;
-import java.util.Objects;
 import java.util.Scanner;
 
 public class Program {
@@ -11,7 +10,6 @@ public class Program {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
         AccountDataUser account;
-
 
         System.out.println("Enter account number: ");
         int accountNumber = sc.nextInt();
