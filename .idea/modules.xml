@@ -6,7 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/AverageProductPrice/AverageProductPrice.iml" filepath="$PROJECT_DIR$/AverageProductPrice/AverageProductPrice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
       <module fileurl="file://$PROJECT_DIR$/BusyRooms/BusyRooms.iml" filepath="$PROJECT_DIR$/BusyRooms/BusyRooms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calendar/Calendar.iml" filepath="$PROJECT_DIR$/Calendar/Calendar.iml" />
       <module fileurl="file://$PROJECT_DIR$/CurrencyConverter/CurrencyConverter.iml" filepath="$PROJECT_DIR$/CurrencyConverter/CurrencyConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateCalc/DateCalc.iml" filepath="$PROJECT_DIR$/DateCalc/DateCalc.iml" />
       <module fileurl="file://$PROJECT_DIR$/Diagonal/Diagonal.iml" filepath="$PROJECT_DIR$/Diagonal/Diagonal.iml" />
       <module fileurl="file://$PROJECT_DIR$/IncreaseSalary/IncreaseSalary.iml" filepath="$PROJECT_DIR$/IncreaseSalary/IncreaseSalary.iml" />
       <module fileurl="file://$PROJECT_DIR$/IncreaseSalaryList/IncreaseSalaryList.iml" filepath="$PROJECT_DIR$/IncreaseSalaryList/IncreaseSalaryList.iml" />
